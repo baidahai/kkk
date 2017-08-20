@@ -1,7 +1,7 @@
 package com.bdqn.pojo;
 
 import java.util.Date;
-//aaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbb
+//aaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbccccccccc
 public class User {
     private Integer id;
 
